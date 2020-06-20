@@ -18,4 +18,4 @@ const tecnologia = [
         especialidade: 'Web/Mobile'
     }
 ]
-console.log (`O usuário ${programador.nome} tem ${programador.idade} e usa a tecnologia ${tecnologia[0].nome} em ${tecnologia[0].especialidade}`)
+console.log (`O usuário ${programador.nome} tem ${programador.idade} e usa a tecnologia ${tecnologia[2].nome} em ${tecnologia[2].especialidade}`)
